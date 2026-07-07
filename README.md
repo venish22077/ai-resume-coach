@@ -61,4 +61,4 @@ MIT License — free to use, share, and modify.
 
 ---
 
-Made by **Venish Kumar**
+Made by **Venish**
